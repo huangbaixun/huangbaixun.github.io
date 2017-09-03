@@ -1,0 +1,8 @@
+title: 黄百训 大数据 Hadoop Spark
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
